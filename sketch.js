@@ -31,6 +31,7 @@ function setup() {
 function draw() {
  stroke(255)
   background(30);
+   
   
  for(var i=0;i<flies.length;i++)
     {
